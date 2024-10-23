@@ -1,1 +1,1 @@
-It is a full stack JavaScript. Freecodecamp certification project
+It is a full stack node js project. Freecodecamp certification project
